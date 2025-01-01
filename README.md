@@ -1,6 +1,9 @@
 # Point Cloud Fusion Program
 This is a small program designed to compute the alignment (fusion) of point clouds using the Point Cloud Library (PCL). It utilizes algorithms for point cloud registration, specifically Iterative Closest Point (ICP), to merge multiple point clouds into a single, unified 3D model.
 
+
+![cloud Points](https://github.com/user-attachments/assets/e0825d42-66a7-42d2-94ad-65397a50247b)
+
 ## Current Functionality
 
 Currently, the program:
