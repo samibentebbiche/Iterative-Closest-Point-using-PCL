@@ -28,4 +28,5 @@ To compile the code, use the following steps:
    cd build
    cmake ..
    make
-   ./code_file_name.cpp cloud_point.ply NUMBER_OF_ITERATIONS```
+   ./code_file_name.cpp cloud_point.ply NUMBER_OF_ITERATIONS
+
