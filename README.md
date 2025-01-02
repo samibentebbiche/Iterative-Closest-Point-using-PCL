@@ -18,3 +18,14 @@ Currently, the program:
 ## Requirements
 - **Point Cloud Library (PCL)**: Install PCL to handle 3D point clouds and perform operations such as ICP.
 - **CMake**: For building the project.
+
+## Usage
+
+To compile the code, use the following steps:
+
+   ```bash
+   mkdir build
+   cd build
+   cmake ..
+   make
+   ./code_file_name.cpp cloud_point.ply NUMBER_OF_ITERATIONS```
